@@ -1,5 +1,6 @@
 module github.com/VillagerV/blogbackend
 
+// +heroku goVersion go1.20
 go 1.20
 
 require (
